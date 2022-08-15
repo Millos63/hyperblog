@@ -10,5 +10,6 @@ En este curso veremos de todo:
 *El verdadero amor por las buenas practicas
 *Creado por Emigdio Espinosa Jasso
 *Incluye ejemplos en windows linux y mac
+*Disponible para todas las edades
 
 Y como un amable recordatorio: Este Readme solo es una practica y un chiste.
